@@ -23,10 +23,10 @@ If you have the skills and equipment to build this device, and would like to don
 ### Documentation
 | Document             | Version | Link                                                                                  |
 |----------------------|---------|---------------------------------------------------------------------------------------|
-| Maker Checklist      | 1.0     | [Maker Checklist](/Documentation/Penguin_Switch_Adpated_Toy_Maker_Checklist_v1.0.pdf)         |
-| Bill of Materials    | 1.0     | [BOM](/Documentation/Penguin_Switch_Adpated_Toy_BOM_V1.0.xlsx)                                |           |
-| Assembly Guide       | 1.0     | [Assembly Guide](/Documentation/Penguin_Switch_Adpated_Toy_Assembly_Guide_v1.0.pdf)           |      
-| User Quick Guide     | 1.0     | [User Guide](/Documentation/Penguin_Switch_Adpated_Toy_User_Guide_v1.0.pdf)                  |
+| Maker Checklist      | 1.0     | [Maker Checklist](/Documentation/Penguin_Switch_Adpated_Toy_Maker_Checklist.pdf)         |
+| Bill of Materials    | 1.0     | [BOM](/Documentation/Working_Documents/Penguin_Switch_Adpated_Toy_BOM.xlsx)                                |           |
+| Assembly Guide       | 1.0     | [Assembly Guide](/Documentation/Penguin_Switch_Adpated_Toy_Assembly_Guide.pdf)           |      
+| User Quick Guide     | 1.0     | [User Guide](/Documentation/Penguin_Switch_Adpated_Toy_User_Guide.pdf)                  |
 
 
 ## Attribution 
